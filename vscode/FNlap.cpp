@@ -342,19 +342,7 @@ void bmi() {
  
 
   
-  void i_love_you () {
-
-
-        
-    for (int i = 1 ;  i > 0 ; i++ ) {
-
-        cout << "i love you <3  " << i << "times" << endl;
-     
-     
-     }
-
-
-  }
+  
 
 
 
